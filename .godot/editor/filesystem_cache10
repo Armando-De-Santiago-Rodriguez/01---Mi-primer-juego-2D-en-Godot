@@ -1,5 +1,6 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1758938239
+::res://::1758940959
+export_presets.cfg::TextFile::-1::1758939178::0::1::::<><><>0<>0<><>::
 hud.gd::GDScript::1005647180761046008::1758936870::0::1::::<>CanvasLayer<><>0<>0<><>::
 hud.tscn::PackedScene::4947129736321201862::1758937005::0::1::::<><><>0<>0<><>::uid://ole4kvtbp4r1::::res://hud.gd<>uid://cit6gwe5px1q8::::res://fonts/Xolonium-Regular.ttf
 main.gd::GDScript::2999757432023437591::1758936175::0::1::::<>Node<><>0<>0<><>::
@@ -19,6 +20,7 @@ run_down.png::CompressedTexture2D::5351377484837838132::1758930990::1758930992::
 run_left.png::CompressedTexture2D::4655534393261630005::1758930990::1758930992::1::::<><><>0<>0<>b6a8681c2872c0287b65e97839486328<>res://.godot/imported/run_left.png-66b47c415dde98e9823e7aefdf3416cf.ctex::
 run_right.png::CompressedTexture2D::3635843901590677711::1758931619::1758931623::1::::<><><>0<>0<>628c9122824558f72f12cd4234bd4584<>res://.godot/imported/run_right.png-e5fbf5b5331e6e2006416ace12b84147.ctex::
 run_up.png::CompressedTexture2D::9081357035630803334::1758930990::1758930992::1::::<><><>0<>0<>f58e2762b975a7820dfdd6afa96945f7<>res://.godot/imported/run_up.png-51e73f1fa78cd97566203aa0d0478706.ctex::
+::res://build/::1758939177
 ::res://fonts/::1758938225
 FONTLOG.txt::TextFile::-1::1758934084::0::1::::<><><>0<>0<><>::
 LICENSE.txt::TextFile::-1::1758030145::0::1::::<><><>0<>0<><>::

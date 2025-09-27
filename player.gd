@@ -52,6 +52,7 @@ func start(pos):
 	rotation = 0
 	show()
 	$CollisionShape2D.disabled = false
+	lives = 3
 
 
 func _on_body_entered(_body):
