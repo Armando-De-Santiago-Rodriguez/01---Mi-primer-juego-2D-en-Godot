@@ -1,0 +1,25 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1758938239
+hud.gd::GDScript::1005647180761046008::1758936870::0::1::::<>CanvasLayer<><>0<>0<><>::
+hud.tscn::PackedScene::4947129736321201862::1758937005::0::1::::<><><>0<>0<><>::uid://ole4kvtbp4r1::::res://hud.gd<>uid://cit6gwe5px1q8::::res://fonts/Xolonium-Regular.ttf
+main.gd::GDScript::2999757432023437591::1758936175::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::6469066510429512572::1758937156::0::1::::<><><>0<>0<><>::uid://bi0dtjbbi0wxj::::res://main.gd<>uid://rkdnhqgf2hpj::::res://mob.tscn<>uid://4vwrqjegqwpj::::res://player.tscn<>uid://ccqoreueuxdb7::::res://hud.tscn<>uid://bsxdcihunp35g::::res://art/1. Moonspire.ogg<>uid://crbl0lmd84hcd::::res://art/AnyConv.com__roblox-death-sound-effect.ogg<>uid://1b4ntnpjtdej::::res://art/castle bg bottom.png
+mob.gd::GDScript::7132953241582797509::1758030145::0::1::::<>RigidBody2D<><>0<>0<><>::
+mob.tscn::PackedScene::1214059878346897035::1758932165::0::1::::<><><>0<>0<><>::uid://c8vixyuoi1xgn::::res://mob.gd<>uid://bmwhtdjw3srsp::::res://art/RACCOONSPRITESHEET.png<>uid://btt5wqelypcxp::::res://art/FOXSPRITESHEET.png<>uid://0nf0tpu0lexk::::res://art/CATSPRITESHEET_Orange.png
+player.gd::GDScript::4921010131592265353::1758936728::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::2080195385142696447::1758936728::0::1::::<><><>0<>0<><>::uid://ccd1k2qxslohl::::res://player.gd<>uid://ciiin1tccb3p5::::res://art/run_down.png<>uid://b7lf8a18wlwhx::::res://art/run_left.png<>uid://d2ncvg37l132a::::res://art/run_up.png<>uid://br2h22padcgbv::::res://art/run_right.png<>uid://crbl0lmd84hcd::::res://art/AnyConv.com__roblox-death-sound-effect.ogg
+::res://art/::1758933296
+1. Moonspire.ogg::AudioStreamOggVorbis::3697486712014303866::1758932809::1758932812::1::::<><><>0<>0<>18f5ebb40f49c17f7ce9b4abcb6d14f2<>res://.godot/imported/1. Moonspire.ogg-c4a635e0b75c5418834cde11712b9ccf.oggvorbisstr::
+AnyConv.com__roblox-death-sound-effect.ogg::AudioStreamOggVorbis::5968829215230923835::1758933282::1758933296::1::::<><><>0<>0<>5ded2c2180afff3465677d9c42e682be<>res://.godot/imported/AnyConv.com__roblox-death-sound-effect.ogg-2f9d8b6e208b2b252f1125a0a9ba05da.oggvorbisstr::
+castle bg bottom.png::CompressedTexture2D::1828759339174311781::1758933100::1758933103::1::::<><><>0<>0<>419344793342ebd30de95e6ca7432485<>res://.godot/imported/castle bg bottom.png-e6cecab0197fffd4595344067b14d5e1.ctex::
+CATSPRITESHEET_Orange.png::CompressedTexture2D::1781907253623315024::1758931933::1758931945::1::::<><><>0<>0<>c0f72ef5d46249c933661a53db2196f1<>res://.godot/imported/CATSPRITESHEET_Orange.png-fa31b13911743ff2f06a5920acd89e7a.ctex::
+FOXSPRITESHEET.png::CompressedTexture2D::3761093534477028093::1758931941::1758931945::1::::<><><>0<>0<>ce40f8faa9d732ababa28cfe5279307e<>res://.godot/imported/FOXSPRITESHEET.png-1195834f8350d7274312890002715214.ctex::
+RACCOONSPRITESHEET.png::CompressedTexture2D::3274562239483377671::1758931945::1758931945::1::::<><><>0<>0<>7f82e57d43f71e44dc7d8542b704e6d7<>res://.godot/imported/RACCOONSPRITESHEET.png-2ae057db2ba82893c02b24e4f8ad07e4.ctex::
+run_down.png::CompressedTexture2D::5351377484837838132::1758930990::1758930992::1::::<><><>0<>0<>7d61d339276d062aa2e2824bde14aa10<>res://.godot/imported/run_down.png-30877643d7ebcfe628fe87e426c194bf.ctex::
+run_left.png::CompressedTexture2D::4655534393261630005::1758930990::1758930992::1::::<><><>0<>0<>b6a8681c2872c0287b65e97839486328<>res://.godot/imported/run_left.png-66b47c415dde98e9823e7aefdf3416cf.ctex::
+run_right.png::CompressedTexture2D::3635843901590677711::1758931619::1758931623::1::::<><><>0<>0<>628c9122824558f72f12cd4234bd4584<>res://.godot/imported/run_right.png-e5fbf5b5331e6e2006416ace12b84147.ctex::
+run_up.png::CompressedTexture2D::9081357035630803334::1758930990::1758930992::1::::<><><>0<>0<>f58e2762b975a7820dfdd6afa96945f7<>res://.godot/imported/run_up.png-51e73f1fa78cd97566203aa0d0478706.ctex::
+::res://fonts/::1758938225
+FONTLOG.txt::TextFile::-1::1758934084::0::1::::<><><>0<>0<><>::
+LICENSE.txt::TextFile::-1::1758030145::0::1::::<><><>0<>0<><>::
+Xolonium-Regular.ttf::FontFile::5375469398433749905::1758030145::1758393096::1::::<><><>0<>0<>131eef7b9800b8eba2747562dbc733bb<>res://.godot/imported/Xolonium-Regular.ttf-bc2981e3069cff4c34dd7c8e2bb73fba.fontdata::
